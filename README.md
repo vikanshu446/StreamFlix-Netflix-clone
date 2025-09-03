@@ -20,3 +20,4 @@ npm run build
 ```shell
 npm run start
 ```
+live on : https://streamflix-netflix-clone.onrender.com/
